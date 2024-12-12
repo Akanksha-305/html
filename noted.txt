@@ -1,0 +1,173 @@
+Backend Technologies:
+------------------------
+Java (OOP)
+Dotnet
+Python
+
+Note : The above lanuguages Programming lanagues
+
+NodeJS:  (Backend) it depends on JavaScript framework...
+
+
+Frontend:
+----------------------
+ReactJS:  facebook, Instagram......
+Angular: (it generates lot of components )
+
+
+
+MERN:(MongoDB, ExpressJs, React, NodeJs)
+===================================
+MongoDB: (Database): 
+It is collection of logical related data....
+Employee:
+empId , empname, empsalary, empaddress........
+Student:
+stdid, stdname,stdaddress......
+
+2 types
+1. Relational Databases: (it is a collection of rows & columns)
+     MySQL, Oracle, MS SQL Server.....
+
+StdId StdName StdSalary
+1001	ajay	5000
+1002    Vijay	6000
+
+
+2. Non-Relational Databases:(It doesn't follows table structure or Schema)
+
+  Ex: MongoDB(BSON), Cassendra, Neo4j....
+
+Student:(JSON): JavaScript Object Notation)
+[
+{
+"stdId":1001,
+"stdName":"ajay",
+"stdAddress":"hyd"
+},
+{ 
+"stdId":1002,
+"stdName":"Chandana",
+"stdAddress":"hyd"
+}
+]
+
+
+
+Express Js: 
+===============
+Express Js exist at the backend side application....
+We need to install express js library in NodeJS application..
+
+Using express Js
+-->Access Rest API methods(get, post, put, delete)
+    CRUD methods or CURD methods
+    C-create(post)
+    R-read(get)
+    U-update(put)
+    D-delete(delete)
+-->Express Js used for middle ware technology
+   (Login)
+  Note: It is validates user authentications(username,     
+        password)
+
+--->Used for to connect other applications(like mongodb)
+
+
+
+ReactJs:
+===========
+It is a JavaScript Library , used for to develop
+web based applications...
+Ex:  Facebook
+     Instagram
+     paypal
+     ......
+
+
+NodeJs:
+==========
+NodeJs also JavaScript based framework, used for running
+Server side based applications...
+It support lot of module for running backend application...
+
+
+
+HTML
+CSS
+BootStrap 
+JavaScript....
+
+
+Versional Control management applications:
+-----------------------------------------------
+git 
+GitHub
+GitLab
+bitbucket....
+
+
+
+
+IDE: notepad, atom, vscode( Recomended)
+
+HTML: (Hyper text markup language)
+================================================
+It is used for to develop static web pages..
+Tim Berner lee , he is one of the programmer developed 
+HTML. This is one of th basic markup language to develop
+web page...
+
+Note: Every html program ends with an extension 
+     i.e either .html or .htm 
+
+
+
+
+Web Page: Page is running on a web browser...
+It is classified into 2 types. They are
+1. Static web pages:
+    Static web pages doesn't give response to user...
+2. Dynamic Web Pages:
+     Dynamic Web pages gives responses to the user...
+
+Html basic Tags:
+=================
+
+Paired Tags:
+1. <html></html>: 
+2. <head></head>
+3. <title></title>
+4. <body></body>
+
+Unpaired Tags:
+<br>(breaking tag), <hr>(Horizontal tag)
+
+Shortcut: ctrl+s
+
+
+Heading Tags in html:
+=======================
+
+Edge (Internet Explorer)
+Netscape Navigator
+Mozilla Firefox
+Google Chrome(Recomended Browser).....
+
+
+
+<head>:
+-------------
+-->We add CSS code 
+-->we add external links
+-->we add javascript code
+-->we vbscript code
+-->we add styles related code....
+-->we add CDN links(Bootstrap)
+
+
+
+
+
+
+
